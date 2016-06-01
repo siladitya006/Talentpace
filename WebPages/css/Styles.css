@@ -1,0 +1,144 @@
+<style>
+	
+	h3
+	{//element selector
+		text-align:center;
+		Color:Blue;
+	}
+
+	#body
+	{
+		background-color: #FFFFB0;
+	}
+
+	#menu1:link
+	{
+		color:floralwhite; 
+		background-color:transparent; 
+		text-decoration:none;
+	}
+	#menu1:visited
+	{
+		color:floralwhite; 
+		background-color:transparent; 
+		text-decoration:none;
+	}
+	#menu1:hover
+	{
+		color:cyan; 
+		background-color:white; 
+		text-decoration:none;
+	}
+	#menu1:active
+	{
+		color:#FFFFB0; 
+		background-color:transparent; 
+		text-decoration:underline;
+	}
+
+	#menu
+	{//id selector
+		font-family:cursive;
+		font-size: 150%;
+		text-align: center;
+	    background-color: black;
+	    width:auto;
+
+	}
+
+	#content
+	{
+		color: #2134AF;
+		text-align: center;
+    	background-color: #EBF2F5;
+    	border: 10px solid black;
+    	padding: 50px;
+    	margin: 10px;
+
+	}
+
+	#pre1
+	{
+		font-size: 20px;
+		text-align: left;
+
+	}
+
+	.background_image
+	{
+    position: relative;
+    overflow: hidden;
+	}
+
+
+    .background_image img
+	{
+		/*background-image: url("../images/beautiful-nature-wallpaper.jpg");*/
+		position: absolute;
+	    left: 0;
+	    top: 0;
+	    width: 100%;
+	    height: auto;
+	    opacity: 0.5;
+	}
+
+	/*#container
+	{
+		background-color: #f1f1f1;
+		width:auto;
+		overflow: auto;
+		position: absolute;
+		top: 138px;
+		bottom: 0;
+		height: auto;
+		text-align:center;
+		
+		
+	}
+
+	#container1{
+		border: 1px solid black;
+		width: 100%;
+		margin:35px;
+		padding:20px;
+	}
+	#container2{
+		background-color:red;
+		
+	}
+
+	table {
+    width:100%;
+    left:50%;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+}
+th, td {
+    padding: 5px;
+    text-align: left;
+    text-align:center;
+}
+table#t01 tr:nth-child(even) {
+    background-color: #eee;
+}
+table#t01 tr:nth-child(odd) {
+   background-color:#fff;
+}
+table#t01 th {
+    background-color: #484141;
+    color: white;
+}
+.colbg{
+	background-color:red;
+}
+.colbgblck{
+	color:#000000;
+}
+	pre{
+		background-color:#75a4a4;
+	}
+*/
+</style>
